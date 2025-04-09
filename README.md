@@ -2,6 +2,13 @@
 
 This project is a sentiment analysis application developed with Streamlit. It allows users to log in, access their client comment files, and analyze the sentiments expressed in these comments using a natural language processing (NLP) model.
 
+## Demo Video 🎬
+
+<video width="640" height="360" autoplay loop muted>
+  <source src="https://github.com/CatelloTheDataProjectManager/cybersecurity_IA/raw/main/user1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Features ✨
 
 - **User Authentication**: Users must authenticate to access their comment files.
