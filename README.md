@@ -4,10 +4,8 @@ This project is a sentiment analysis application developed with Streamlit. It al
 
 ## Demo Video 🎬
 
-<video width="640" height="360" autoplay loop muted>
-  <source src="https://github.com/CatelloTheDataProjectManager/cybersecurity_IA/raw/main/user1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/CatelloTheDataProjectManager/cybersecurity_IA/blob/main/user1.mp4)
+
 
 ## Features ✨
 
