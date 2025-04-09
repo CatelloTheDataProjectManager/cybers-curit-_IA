@@ -36,3 +36,14 @@ This project is a sentiment analysis application developed with Streamlit. It al
 - **Encryption**: Sensitive client data is encrypted using the `cryptography` library and stored in `clients_encrypted.csv`.
 - **Decryption**: Encrypted data is decrypted for analysis and saved in `clients_decrypted.csv`.
 
+## Docker and Kubernetes Integration 🐳☸️
+
+- **Docker**: The application can be containerized using Docker, allowing it to run on any machine with Docker installed.
+- **Docker Hub**: The Docker image can be pushed to Docker Hub for easy deployment and sharing.
+- **Kubernetes**: Use Kubernetes to orchestrate multiple instances of the application, ensuring scalability and reliability.
+
+## API Development 🌐
+
+Design an API with multiple functionalities, such as user authentication, sentiment analysis, and data encryption/decryption, to extend the application's capabilities.
+
+Perspective: Explore integrating machine learning models for enhanced sentiment analysis and real-time data processing.
